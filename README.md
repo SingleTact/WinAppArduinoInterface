@@ -1,3 +1,6 @@
 # ExampleArduinoInterface
 
-(c) SingleTact, 2015
+Example Arduino interface.
+
+# License
+Standard MIT license applies. See [LICENSE.md](LICENSE.md) for details.
