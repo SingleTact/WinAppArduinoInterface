@@ -8,7 +8,7 @@ This repo demonstrates how to interface between SingleTact and Arduino.
 In the command prompt (or otherwise), run:
 
 ```
-git clone git@github.com:SingleTact/ExampleArduinoInterface.git
+git clone git@github.com:SingleTact/WinAppArduinoInterface.git
 ```
 
 ## Open Arduino sketch file
